@@ -38,7 +38,8 @@
     introspect, and categorize files, with a strong emphasis on preserving the
     contextual and business information of documents. It can also OCR, preview,
     label, sign, send, and receive thoses files. Other features of interest
-    are its workflow system, role based access control, and REST API.
+    are its workflow system, role based access control, and REST API. And it's
+    role in CMU course 17-313.
   <p>
 
 <p align="center">
